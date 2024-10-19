@@ -15,7 +15,6 @@ Welcome to the **Stock Transformers Documentation** – a comprehensive guide fo
 9. [Challenges Faced](challenges_faced.md)
 10. [Future Scope](future_scope.md)
 11. [Conclusion](conclusion.md)
-
 ## Quick Links
 
 - GitHub Repository: [Stock Transformers](https://github.com/Ghruank/stocktransformers/)
