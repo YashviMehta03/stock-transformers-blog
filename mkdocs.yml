@@ -80,8 +80,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: "https://github.com/yourusername"
-    - icon: fontawesome/brands/linkedin
-      link: "https://linkedin.com/in/yourprofile"
 
 # Use MkDocs' built-in TOC for each page, with sections in the sidebar
 markdown_extensions:
